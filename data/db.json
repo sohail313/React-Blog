@@ -12,6 +12,13 @@
             "body":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum in autem, architecto reprehenderit consequatur, repellendus et unde placeat odit exercitationem non nesciunt id esse pariatur est itaque voluptate laborum sapiente.",
             "author":"yoshi",
             "id":2
+        },
+
+        {
+            "title":"My first Portfolio Website",
+            "body":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum in autem, architecto reprehenderit consequatur, repellendus et unde placeat odit exercitationem non nesciunt id esse pariatur est itaque voluptate laborum sapiente.",
+            "author":"mario",
+            "id":3
         }
     ]
 }
