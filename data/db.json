@@ -1,0 +1,17 @@
+{
+    "blogs":[
+        {
+            "title":"My first Blog",
+            "body":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum in autem, architecto reprehenderit consequatur, repellendus et unde placeat odit exercitationem non nesciunt id esse pariatur est itaque voluptate laborum sapiente.",
+            "author":"mario",
+            "id":1
+        },
+
+        {
+            "title":"Opening Party",
+            "body":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum in autem, architecto reprehenderit consequatur, repellendus et unde placeat odit exercitationem non nesciunt id esse pariatur est itaque voluptate laborum sapiente.",
+            "author":"yoshi",
+            "id":2
+        }
+    ]
+}
