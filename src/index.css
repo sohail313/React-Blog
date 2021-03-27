@@ -112,3 +112,6 @@ margin-bottom: 8px;
 .not-found p{
   margin-bottom: 5px;
 }
+.not-found a:hover{
+  color:#f1356d;
+}
